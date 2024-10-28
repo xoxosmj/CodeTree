@@ -3,6 +3,6 @@ public class Main {
         // 여기에 코드를 작성해주세요.
         int a = b;
         String b = "C";
-        System.our.printf("%s!.....!%d",a,b);
+        System.out.printf("%s!.....!%d",a,b);
     }
 }
