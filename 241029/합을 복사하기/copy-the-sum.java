@@ -6,7 +6,7 @@ public class Main {
         int b = 2;
         int c = 3;
         a = b = c = a+b+c;
-        System.out.print("%d %d %d",a,b,c);
+        System.out.printf("%d %d %d",a,b,c);
 
     }
 }
